@@ -24,3 +24,25 @@ Feel free to use them.
 [08. Subqueries](08.%20Subqueries.sql)
 
 [09. Views](09.%20Views.sql)
+
+# Pending topics to cover
+
+1. Self JOIN
+
+2. Stored procedures
+
+3. Variables
+
+4. User-defined functions
+
+5. Triggers
+
+6. Indexes
+
+7. CASE statement
+
+8. Window functions
+
+9. Common Table Expressions (CTEs)
+
+10. Temporary tables
