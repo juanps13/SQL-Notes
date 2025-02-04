@@ -47,6 +47,8 @@ WHERE
     t.title = 'Senior Engineer';
     
 /* UNION */
+/* Unlike JOIN, all the columns must be the same */
+/* With UNION ALL if a row is duplicated it will be included twice */
 SELECT
     emp_no,
     first_name,
