@@ -25,24 +25,22 @@ Feel free to use them.
 
 [09. Views](09.%20Views.sql)
 
+[10. Self Join](10.%20Self%20join.sql)
+
+[11. Stored procedures and variables](11.%20Stored%20procedures%20and%20variables.sql)
+
+[12. User-defined functions](12.%20User-defined%20functions.sql)
+
 # Pending topics to cover
 
-1. Self JOIN
+1. Triggers
 
-2. Stored procedures
+2. Indexes
 
-3. Variables
+3. CASE statement
 
-4. User-defined functions
+4. Window functions
 
-5. Triggers
+5. Common Table Expressions (CTEs)
 
-6. Indexes
-
-7. CASE statement
-
-8. Window functions
-
-9. Common Table Expressions (CTEs)
-
-10. Temporary tables
+6. Temporary tables
