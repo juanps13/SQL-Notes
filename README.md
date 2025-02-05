@@ -31,16 +31,30 @@ Feel free to use them.
 
 [12. User-defined functions](12.%20User-defined%20functions.sql)
 
+[13. Additional notes about variables](13.%20Additional%20notes%20about%20variables.sql)
+
+[14. Triggers](14.%20Triggers.sql)
+
+[15. Indexes](15.%20Indexes.sql)
+
+[16. CASE statement](16.%20CASE%20statement.sql)
+
 # Pending topics to cover
 
-1. Triggers
+1. String functions
 
-2. Indexes
+2. Window functions
 
-3. CASE statement
+    - ROW_NUMBER()
 
-4. Window functions
+    - PARTITION BY
 
-5. Common Table Expressions (CTEs)
+    - RANK()
 
-6. Temporary tables
+    - LAG()
+    
+    - LEAD()
+
+3. Common Table Expressions (CTEs)
+
+4. Temporary tables
