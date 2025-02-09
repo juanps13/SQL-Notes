@@ -39,22 +39,18 @@ Feel free to use them.
 
 [16. CASE statement](16.%20CASE%20statement.sql)
 
+[17. WIndow functions](17.%20Window%20functions.sql)
+
+[18. Ranking window functions](18.%20Ranking%20window%20functions.sql)
+
+[19. Value window functions](19.%20Value%20window%20functions.sql)
+
+[20. CTEs](20.%20CTEs.sql)
+
+[21. Temporary tables](21.%20Temporary%20tables.sql)
+
 # Pending topics to cover
 
 1. String functions
 
-2. Window functions
-
-    - ROW_NUMBER()
-
-    - PARTITION BY
-
-    - RANK()
-
-    - LAG()
-    
-    - LEAD()
-
-3. Common Table Expressions (CTEs)
-
-4. Temporary tables
+2. Aggregate window functions
